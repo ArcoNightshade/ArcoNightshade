@@ -9,6 +9,6 @@
 ### Some of my *work* software:
 [![skills](https://skillicons.dev/icons?i=emacs,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ## What I'm learning:
-[![skills](https://skillicons.dev/icons?i=c,cpp,rust,powershell)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=c,cpp,rust)](https://skillicons.dev)
 
 [![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
