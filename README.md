@@ -1,18 +1,12 @@
-## Hi there 👋
+# Yo
+## Welcome to my README!
 
-<!--
-**ArcoNightshade/ArcoNightshade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What my skills are:
+[![skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev)
+### What I operate with:
+[![skills](https://skillicons.dev/icons?i=arch,windows)](https://skillicons.dev)
+### Some of my *work* software:
+[![skills](https://skillicons.dev/icons?i=vscode,emacs,obsidian,github,stackoverflow,vim,cloudflare)](https://skillicons.dev)
 
 [![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
