@@ -12,6 +12,6 @@ I like the video games *Helldivers 2* and *Call of Duty: Infinite Warfare*, and 
 ### Some of my *work* software:
 [![skills](https://skillicons.dev/icons?i=emacs,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ### What I'm learning:
-[![skills](https://skillicons.dev/icons?i=c,cpp,rust)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=c,cpp,rust,python)](https://skillicons.dev)
 
 [![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
