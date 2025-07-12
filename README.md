@@ -10,8 +10,8 @@ I like the video games *Helldivers 2* and *Call of Duty: Infinite Warfare*, and 
 ### What I operate with:
 [![skills](https://skillicons.dev/icons?i=arch,debian,windows,raspberrypi,cloudflare)](https://skillicons.dev)
 ### Some of my *work* software:
-[![skills](https://skillicons.dev/icons?i=vim,emacs,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=vim,emacs,nix,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ### What I'm learning:
-[![skills](https://skillicons.dev/icons?i=c,cpp,rust,python)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=c,cpp,nix,rust,python)](https://skillicons.dev)
 
 [![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
