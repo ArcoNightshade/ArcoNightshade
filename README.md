@@ -8,9 +8,9 @@ I like the video games *Helldivers 2* and *Call of Duty: Infinite Warfare*, and 
 ### What my skills are:
 [![skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
 ### What I operate with:
-[![skills](https://skillicons.dev/icons?i=arch,debian,windows,raspberrypi)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=arch,debian,windows,raspberrypi,cloudflare)](https://skillicons.dev)
 ### Some of my *work* software:
-[![skills](https://skillicons.dev/icons?i=emacs,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=vim,emacs,obsidian,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ### What I'm learning:
 [![skills](https://skillicons.dev/icons?i=c,cpp,rust,python)](https://skillicons.dev)
 
