@@ -6,6 +6,7 @@ I'm Arco Nightshade, the CEO and Founder of Raptorbytes LLC (https://raptorbytes
 I like the video games *Helldivers 2* and *Call of Duty: Infinite Warfare*, and do 3D printing with my Bambu Labs P1S.
 
 Current distro: NixOS 25.11 (Xantusia)
+
 Current DE/WM: Niri
 
 ### What my skills are:
