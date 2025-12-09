@@ -9,12 +9,12 @@ Current distro: NixOS 25.11 (Xantusia)
 Current DE/WM: Niri
 
 ### What my skills are:
-[![skills](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
+[![oops! the website is down!](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
 ### What I operate with:
-[![skills](https://skillicons.dev/icons?i=nix,arch,debian,windows,raspberrypi,cloudflare)](https://skillicons.dev)
+[![oops! the website is down!](https://skillicons.dev/icons?i=nix,arch,debian,windows,raspberrypi,cloudflare)](https://skillicons.dev)
 ### Some of my *work* software:
-[![skills](https://skillicons.dev/icons?i=nix,rust,github,stackoverflow,cloudflare)](https://skillicons.dev)
+[![oops! the website is down!](https://skillicons.dev/icons?i=nix,rust,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ### What I'm learning:
-[![skills](https://skillicons.dev/icons?i=nix,rust,haskell)](https://skillicons.dev)
+[![oops! the website is down!](https://skillicons.dev/icons?i=nix,rust,haskell)](https://skillicons.dev)
 
 [![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
