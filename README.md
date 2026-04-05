@@ -12,5 +12,3 @@ I'm Arco.
 [![oops! the website is down!](https://skillicons.dev/icons?i=nix,rust,github,stackoverflow,cloudflare)](https://skillicons.dev)
 ### What I'm learning:
 [![oops! the website is down!](https://skillicons.dev/icons?i=nix,rust)](https://skillicons.dev)
-
-[![My GitHub stats!!](https://github-readme-stats.vercel.app/api?username=ArcoNightshade)](https://github.com/ArcoNightshade/github-readme-stats)
