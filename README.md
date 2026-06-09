@@ -1,3 +1,4 @@
 ## Welcome to my ***README!***
 
-I'm Wade and I do systems/web development.
+I'm Lyon and I do systems/web development.
+Solo dev because why not
